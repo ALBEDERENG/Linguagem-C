@@ -2,14 +2,14 @@
 
 Este repositório foi criado para armazenar **exercícios, exemplos práticos e anotações** do curso:
 
-🎥 **Curso de Linguagem C – 2022 (Gratuito)**  
-Disponível no YouTube
+**Curso de Linguagem C – 2022 (Gratuito)**  
+Disponível no YouTube: https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2
 
 O objetivo é acompanhar toda a playlist, praticando os conceitos fundamentais da linguagem C e registrando a evolução no aprendizado.
 
 ---
 
-## 📌 Objetivo do Repositório
+ ## Objetivo do Repositório
 
 - Aprender **Linguagem C do zero**
 - Praticar lógica de programação
@@ -20,7 +20,7 @@ O objetivo é acompanhar toda a playlist, praticando os conceitos fundamentais d
 
 ---
 
-## 📚 Conteúdos Abordados na Playlist
+## Conteúdos Abordados na Playlist
 
 Ao longo do curso, são estudados conceitos como:
 
@@ -43,7 +43,7 @@ Ao longo do curso, são estudados conceitos como:
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - **Linguagem:** C  
 - **IDE:** Dev-C++  
